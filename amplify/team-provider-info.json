@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "psa-amplify-ref-dev-20190625114208-authRole",
+            "UnauthRoleArn": "arn:aws:iam::734254467038:role/psa-amplify-ref-dev-20190625114208-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::734254467038:role/psa-amplify-ref-dev-20190625114208-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "psa-amplify-ref-dev-20190625114208-deployment",
+            "UnauthRoleName": "psa-amplify-ref-dev-20190625114208-unauthRole",
+            "StackName": "psa-amplify-ref-dev-20190625114208",
+            "StackId": "arn:aws:cloudformation:us-east-1:734254467038:stack/psa-amplify-ref-dev-20190625114208/cadcb520-975f-11e9-b242-0e03953a0426"
+        },
+        "categories": {
+            "auth": {
+                "psaamplifyref68c1050b": {}
+            }
+        }
+    }
+}
